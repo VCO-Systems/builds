@@ -2,4 +2,5 @@ Version,branch,commit,build date, deployed to, notes
 0.1,master,,2014-3-14 12-21-15 AM,OHL Dev,"basic -j functionality"
 0.2,master,43e360680dc729e011da01bff63ba59a4ba9f206,2014-3-20 09-15-01 AM,OHL Dev,"-b; log file"
 0.3,master,b4c8a50786f731f721c16ba55e55bb6548f4b835,2014-3-24 12-41-0,OHL Dev,"-b fixed; improved logging"
-0.3.1,releases/v0.3.1,3632b4031613cc85d9aad84fdef32eb28138f757, 2014-3-25_5-10-32,OHL DEV,fixed date bugs
+0.3.1,releases/v0.3.1,f5a686b, 2014-3-28_8-42-17,OHL DEV,fixed date bugs that caused rollback to get stuck in loop
+0.4,master,99e8a49b5df9618ed329bd8dfacfd30a4adfddb2,2014-4-09_2-28-41,OHL Dev,
